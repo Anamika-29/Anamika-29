@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 - 👯 I’m looking to collaborate on **Python Projects**
 - 📫 How to reach me **job.anamika29@gmail.com**
-- ⚡ Fun fact: I like to  **read bools and explore new technologies**
+- ⚡ Fun fact: I like to  **read books and explore new technologies**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
