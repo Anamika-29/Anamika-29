@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![Hi, I'm Anamika I'm a PYTHON developer](https://github.com/Anamika-29/Anamika-29/blob/main/assets/Banner1.jpg)
+![Hi, I'm Anamika I'm a PYTHON developer](https://github.com/Anamika-29/Anamika-29/blob/main/assets/Bannner1.jpg)
 <br><br>
 
 <!--
