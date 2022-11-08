@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 ⚡ TECH I HAVE WORKED/WORKING ON 
 
 
-[![PYTHON BADGE](https://img.shields.io/badge/-PYTHON-8db600?style=for-the-badge&labelColor=black&logo=PYTHON&logoColor=8db600)](#)
-
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href=""><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+  <a href="http://www.cplusplus.org/" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  
 ⚡ I'M CURRENTLY LEARNING
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <br><br>
 ⚡ GitHub Stats<br>
 
