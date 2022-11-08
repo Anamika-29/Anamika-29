@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-<!-- - 🔭 I’m currently working on a **B2C E-com Project** -->
+- 👋 Hi! I am **Anamika Sharma**
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 - 👯 I’m looking to collaborate on **Python Projects**
 - 📫 How to reach me **job.anamika29@gmail.com**
