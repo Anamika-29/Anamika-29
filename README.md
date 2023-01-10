@@ -29,12 +29,22 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a href=""><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-  <a href="http://www.cplusplus.org/" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<a href="http://www.cplusplus.org/" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  
+  [![MYSQL BADGE](https://img.shields.io/badge/-mysql-8db600?style=for-the-badge&labelColor=black&logo=mysql&logoColor=8db600)](#)
+  
+  
+
   
 ⚡ I'M CURRENTLY LEARNING
+  
+  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+  
+   [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+ 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <br><br>
 ⚡ GitHub Stats<br>
 
