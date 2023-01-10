@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ![Anamika's github stats](https://github-readme-stats.vercel.app/api?username=Anamika-29&show_icons=true&theme=radical&line_height=27)
 
-![Anamika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-29&hide=css,java,html&theme=radical)
+<!-- ![Anamika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-29&hide=css,java,html&theme=radical) -->
 
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anamika-29&theme=dark)
