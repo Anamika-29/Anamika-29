@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi! I am **Anamika Sharma**
-- 🌱 I’m currently learning **Data Structure and Algorithms**
-- 👯 I’m looking to collaborate on **Python Projects**
+- 🌱 I’m currently learning **Cloud and Web Developement**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 - 📫 How to reach me **job.anamika29@gmail.com**
 - ⚡ Fun fact: I like to  **read books and explore new technologies**
 <!-- - 🤔 I’m looking for help with ... -->
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
   [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
   
-   [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+<!--    [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
  
 
 <br><br>
