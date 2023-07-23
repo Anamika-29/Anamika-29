@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👋 Hi! I am **Anamika Sharma**
 - 🌱 I’m currently learning **Cloud and Web Developement**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- 📫 How to reach me **job.anamika29@gmail.com**
+- 📫 How to reach me **anamikasharma.0829@gmail.com**
 - ⚡ Fun fact: I like to  **read books and explore new technologies**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
