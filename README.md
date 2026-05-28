@@ -77,8 +77,16 @@
 
 ## ⚡ GitHub Stats
 
-![Anamika's github stats](https://github-readme-stats.vercel.app/api?username=Anamika-29&show_icons=true&theme=radical&line_height=27)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anamika-29&theme=dark)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anamika-29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-29&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anamika-29&theme=radical" alt="Anamika-29 streak stats"/>
+</p>
 
 <h3>⚙️ GitHub Analytics</h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anamika-29&theme=react-dark"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamika-29&theme=radical" alt="Anamika-29 activity graph"/>
+</p>
