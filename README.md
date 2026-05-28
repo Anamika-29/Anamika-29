@@ -78,8 +78,8 @@
 ## ⚡ GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anamika-29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-29&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Anamika-29&cc=0d1117&tc=fff&ic=ff79c6&bc=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika-29&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="left">
