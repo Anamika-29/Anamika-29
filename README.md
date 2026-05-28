@@ -90,5 +90,4 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamika-29&theme=radical" alt="Anamika-29 activity graph"/>
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anamika-29&show_icons=true)
+![Leetcode Stats](https://leetcode.com/u/void_mount_30/)
